@@ -1,0 +1,11 @@
+D:\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.dll.config
+D:\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.dll
+D:\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.pdb
+D:\githublancuoi\DiemDanhSinhVien\LinqToSQL\obj\Debug\LinqToSQL.dll
+D:\githublancuoi\DiemDanhSinhVien\LinqToSQL\obj\Debug\LinqToSQL.pdb
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\obj\Debug\LinqToSQL.dll
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\obj\Debug\LinqToSQL.pdb
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.dll.config
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.dll
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\WTFBee\Documents\GitHub\githublancuoi\DiemDanhSinhVien\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
